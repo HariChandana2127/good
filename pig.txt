@@ -1,1 +1,7 @@
 pig
+cat
+monkey
+rat
+dog
+donkey
+elephant
